@@ -26,13 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Luis Leal",
   title: "FullStack Developer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  email: "luisrrleal@gmail.com",
+  gitHub: "luislealdev",
+  instagram: "luisrrleal",
+  linkedIn: "luisrrleal",
 };
 
 const primaryColor = "#4E567E";
